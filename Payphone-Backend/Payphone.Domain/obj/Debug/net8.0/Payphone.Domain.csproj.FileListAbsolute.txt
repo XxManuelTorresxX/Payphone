@@ -9,3 +9,15 @@ C:\EXAM\Payphone-Backend\Payphone.Domain\obj\Debug\net8.0\Payphone.Domain.dll
 C:\EXAM\Payphone-Backend\Payphone.Domain\obj\Debug\net8.0\refint\Payphone.Domain.dll
 C:\EXAM\Payphone-Backend\Payphone.Domain\obj\Debug\net8.0\Payphone.Domain.pdb
 C:\EXAM\Payphone-Backend\Payphone.Domain\obj\Debug\net8.0\ref\Payphone.Domain.dll
+C:\Sources\Payphone\Payphone-Backend\Payphone.Domain\bin\Debug\net8.0\Payphone.Domain.deps.json
+C:\Sources\Payphone\Payphone-Backend\Payphone.Domain\bin\Debug\net8.0\Payphone.Domain.dll
+C:\Sources\Payphone\Payphone-Backend\Payphone.Domain\bin\Debug\net8.0\Payphone.Domain.pdb
+C:\Sources\Payphone\Payphone-Backend\Payphone.Domain\obj\Debug\net8.0\Payphone.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sources\Payphone\Payphone-Backend\Payphone.Domain\obj\Debug\net8.0\Payphone.Domain.AssemblyInfoInputs.cache
+C:\Sources\Payphone\Payphone-Backend\Payphone.Domain\obj\Debug\net8.0\Payphone.Domain.AssemblyInfo.cs
+C:\Sources\Payphone\Payphone-Backend\Payphone.Domain\obj\Debug\net8.0\Payphone.Domain.csproj.CoreCompileInputs.cache
+C:\Sources\Payphone\Payphone-Backend\Payphone.Domain\obj\Debug\net8.0\Payphone.Domain.sourcelink.json
+C:\Sources\Payphone\Payphone-Backend\Payphone.Domain\obj\Debug\net8.0\Payphone.Domain.dll
+C:\Sources\Payphone\Payphone-Backend\Payphone.Domain\obj\Debug\net8.0\refint\Payphone.Domain.dll
+C:\Sources\Payphone\Payphone-Backend\Payphone.Domain\obj\Debug\net8.0\Payphone.Domain.pdb
+C:\Sources\Payphone\Payphone-Backend\Payphone.Domain\obj\Debug\net8.0\ref\Payphone.Domain.dll

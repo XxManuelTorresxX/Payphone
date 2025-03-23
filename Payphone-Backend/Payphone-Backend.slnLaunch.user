@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "Nuevo perfil",
+    "Projects": [
+      {
+        "Path": "Payphone.Api\\Payphone.Api.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Payphone.AspireHost\\Payphone.AspireHost.AppHost\\Payphone.AspireHost.AppHost.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DataProtector")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8110b901e6db88f95bbae896fc6439be6ba8f557")]
 [assembly: System.Reflection.AssemblyProductAttribute("DataProtector")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DataProtector")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iNfrWVC+pE0=",
+  "dgSpecHash": "o0GHOHIZ7Rw=",
   "success": true,
-  "projectFilePath": "C:\\EXAM\\Payphone-Backend\\Payphone.UnitTest\\Payphone.UnitTest.csproj",
+  "projectFilePath": "C:\\Sources\\Payphone\\Payphone-Backend\\Payphone.UnitTest\\Payphone.UnitTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\manuel.torres\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\manuel.torres\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",

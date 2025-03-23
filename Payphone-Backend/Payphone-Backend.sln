@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35913.81 d17.13
+VisualStudioVersion = 17.13.35913.81
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Api", "Api", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
 EndProject
@@ -44,6 +44,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Payphone.Infrastructure", "
 		{8C66CDD4-2ED5-4618-A406-C8E1F7D15DD4} = {8C66CDD4-2ED5-4618-A406-C8E1F7D15DD4}
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Host", "Host", "{92176116-884F-46C4-88E2-051239997C03}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Payphone.AspireHost.AppHost", "Payphone.AspireHost\Payphone.AspireHost.AppHost\Payphone.AspireHost.AppHost.csproj", "{EF35C667-EEA3-4FF1-B7B2-A9164F116975}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Payphone.AspireHost.ServiceDefaults", "Payphone.AspireHost\Payphone.AspireHost.ServiceDefaults\Payphone.AspireHost.ServiceDefaults.csproj", "{D01B3078-6965-0BFD-A509-40C13AB60044}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -74,6 +80,14 @@ Global
 		{C0D29B96-ADA0-4A97-B649-0FD1DBCA265B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C0D29B96-ADA0-4A97-B649-0FD1DBCA265B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C0D29B96-ADA0-4A97-B649-0FD1DBCA265B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF35C667-EEA3-4FF1-B7B2-A9164F116975}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF35C667-EEA3-4FF1-B7B2-A9164F116975}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF35C667-EEA3-4FF1-B7B2-A9164F116975}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF35C667-EEA3-4FF1-B7B2-A9164F116975}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D01B3078-6965-0BFD-A509-40C13AB60044}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D01B3078-6965-0BFD-A509-40C13AB60044}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D01B3078-6965-0BFD-A509-40C13AB60044}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D01B3078-6965-0BFD-A509-40C13AB60044}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -86,6 +100,8 @@ Global
 		{8C66CDD4-2ED5-4618-A406-C8E1F7D15DD4} = {A84A3539-2E7B-4D4E-8EF5-FDD901D1825F}
 		{4E80425D-11C6-4E8D-9DF3-2161015B5EAE} = {82641798-5A52-4191-8E23-7F83035E10BC}
 		{C0D29B96-ADA0-4A97-B649-0FD1DBCA265B} = {3241B93E-1390-48F4-B25F-DFB9BE398CD2}
+		{EF35C667-EEA3-4FF1-B7B2-A9164F116975} = {92176116-884F-46C4-88E2-051239997C03}
+		{D01B3078-6965-0BFD-A509-40C13AB60044} = {92176116-884F-46C4-88E2-051239997C03}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {1E83CACC-C788-4F14-9AD1-CB5147B9A8B0}

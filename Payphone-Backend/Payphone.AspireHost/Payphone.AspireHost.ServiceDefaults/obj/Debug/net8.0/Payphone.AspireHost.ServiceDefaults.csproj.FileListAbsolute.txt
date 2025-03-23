@@ -1,0 +1,13 @@
+C:\Sources\Payphone\Payphone-Backend\Payphone.AspireHost\Payphone.AspireHost.ServiceDefaults\bin\Debug\net8.0\Payphone.AspireHost.ServiceDefaults.deps.json
+C:\Sources\Payphone\Payphone-Backend\Payphone.AspireHost\Payphone.AspireHost.ServiceDefaults\bin\Debug\net8.0\Payphone.AspireHost.ServiceDefaults.dll
+C:\Sources\Payphone\Payphone-Backend\Payphone.AspireHost\Payphone.AspireHost.ServiceDefaults\bin\Debug\net8.0\Payphone.AspireHost.ServiceDefaults.pdb
+C:\Sources\Payphone\Payphone-Backend\Payphone.AspireHost\Payphone.AspireHost.ServiceDefaults\obj\Debug\net8.0\Payphone.AspireHost.ServiceDefaults.csproj.AssemblyReference.cache
+C:\Sources\Payphone\Payphone-Backend\Payphone.AspireHost\Payphone.AspireHost.ServiceDefaults\obj\Debug\net8.0\Payphone.AspireHost.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sources\Payphone\Payphone-Backend\Payphone.AspireHost\Payphone.AspireHost.ServiceDefaults\obj\Debug\net8.0\Payphone.AspireHost.ServiceDefaults.AssemblyInfoInputs.cache
+C:\Sources\Payphone\Payphone-Backend\Payphone.AspireHost\Payphone.AspireHost.ServiceDefaults\obj\Debug\net8.0\Payphone.AspireHost.ServiceDefaults.AssemblyInfo.cs
+C:\Sources\Payphone\Payphone-Backend\Payphone.AspireHost\Payphone.AspireHost.ServiceDefaults\obj\Debug\net8.0\Payphone.AspireHost.ServiceDefaults.csproj.CoreCompileInputs.cache
+C:\Sources\Payphone\Payphone-Backend\Payphone.AspireHost\Payphone.AspireHost.ServiceDefaults\obj\Debug\net8.0\Payphone.AspireHost.ServiceDefaults.sourcelink.json
+C:\Sources\Payphone\Payphone-Backend\Payphone.AspireHost\Payphone.AspireHost.ServiceDefaults\obj\Debug\net8.0\Payphone.AspireHost.ServiceDefaults.dll
+C:\Sources\Payphone\Payphone-Backend\Payphone.AspireHost\Payphone.AspireHost.ServiceDefaults\obj\Debug\net8.0\refint\Payphone.AspireHost.ServiceDefaults.dll
+C:\Sources\Payphone\Payphone-Backend\Payphone.AspireHost\Payphone.AspireHost.ServiceDefaults\obj\Debug\net8.0\Payphone.AspireHost.ServiceDefaults.pdb
+C:\Sources\Payphone\Payphone-Backend\Payphone.AspireHost\Payphone.AspireHost.ServiceDefaults\obj\Debug\net8.0\ref\Payphone.AspireHost.ServiceDefaults.dll

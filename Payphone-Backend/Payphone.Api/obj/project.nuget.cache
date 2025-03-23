@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "C6ObGtWX/jk=",
+  "dgSpecHash": "Emzu7vvOtjs=",
   "success": true,
-  "projectFilePath": "C:\\EXAM\\Payphone-Backend\\Payphone.Api\\Payphone.Api.csproj",
+  "projectFilePath": "C:\\Sources\\Payphone\\Payphone-Backend\\Payphone.Api\\Payphone.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\manuel.torres\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\manuel.torres\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\8.0.14\\microsoft.aspnetcore.authentication.jwtbearer.8.0.14.nupkg.sha512",

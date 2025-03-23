@@ -1,86 +1,90 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\EXAM\\Payphone-Backend\\",
+  "WorkspaceRootPath": "C:\\Sources\\Payphone\\Payphone-Backend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AEBC0771-9B5F-4934-9043-39155BBB82EE}|Payphone.Api\\Payphone.Api.csproj|c:\\exam\\payphone-backend\\payphone.api\\controllers\\orderstatushistorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AEBC0771-9B5F-4934-9043-39155BBB82EE}|Payphone.Api\\Payphone.Api.csproj|solutionrelative:payphone.api\\controllers\\orderstatushistorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EF35C667-EEA3-4FF1-B7B2-A9164F116975}|Payphone.AspireHost\\Payphone.AspireHost.AppHost\\Payphone.AspireHost.AppHost.csproj|c:\\sources\\payphone\\payphone-backend\\payphone.aspirehost\\payphone.aspirehost.apphost\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF35C667-EEA3-4FF1-B7B2-A9164F116975}|Payphone.AspireHost\\Payphone.AspireHost.AppHost\\Payphone.AspireHost.AppHost.csproj|solutionrelative:payphone.aspirehost\\payphone.aspirehost.apphost\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AEBC0771-9B5F-4934-9043-39155BBB82EE}|Payphone.Api\\Payphone.Api.csproj|c:\\exam\\payphone-backend\\payphone.api\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AEBC0771-9B5F-4934-9043-39155BBB82EE}|Payphone.Api\\Payphone.Api.csproj|solutionrelative:payphone.api\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AEBC0771-9B5F-4934-9043-39155BBB82EE}|Payphone.Api\\Payphone.Api.csproj|c:\\exam\\payphone-backend\\payphone.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AEBC0771-9B5F-4934-9043-39155BBB82EE}|Payphone.Api\\Payphone.Api.csproj|c:\\sources\\payphone\\payphone-backend\\payphone.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AEBC0771-9B5F-4934-9043-39155BBB82EE}|Payphone.Api\\Payphone.Api.csproj|solutionrelative:payphone.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AEBC0771-9B5F-4934-9043-39155BBB82EE}|Payphone.Api\\Payphone.Api.csproj|c:\\exam\\payphone-backend\\payphone.api\\payphone.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{AEBC0771-9B5F-4934-9043-39155BBB82EE}|Payphone.Api\\Payphone.Api.csproj|c:\\sources\\payphone\\payphone-backend\\payphone.api\\controllers\\orderstatushistorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEBC0771-9B5F-4934-9043-39155BBB82EE}|Payphone.Api\\Payphone.Api.csproj|solutionrelative:payphone.api\\controllers\\orderstatushistorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEBC0771-9B5F-4934-9043-39155BBB82EE}|Payphone.Api\\Payphone.Api.csproj|c:\\sources\\payphone\\payphone-backend\\payphone.api\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEBC0771-9B5F-4934-9043-39155BBB82EE}|Payphone.Api\\Payphone.Api.csproj|solutionrelative:payphone.api\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEBC0771-9B5F-4934-9043-39155BBB82EE}|Payphone.Api\\Payphone.Api.csproj|c:\\sources\\payphone\\payphone-backend\\payphone.api\\payphone.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{AEBC0771-9B5F-4934-9043-39155BBB82EE}|Payphone.Api\\Payphone.Api.csproj|solutionrelative:payphone.api\\payphone.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AEBC0771-9B5F-4934-9043-39155BBB82EE}|Payphone.Api\\Payphone.Api.csproj|c:\\exam\\payphone-backend\\payphone.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AEBC0771-9B5F-4934-9043-39155BBB82EE}|Payphone.Api\\Payphone.Api.csproj|c:\\sources\\payphone\\payphone-backend\\payphone.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AEBC0771-9B5F-4934-9043-39155BBB82EE}|Payphone.Api\\Payphone.Api.csproj|solutionrelative:payphone.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AEBC0771-9B5F-4934-9043-39155BBB82EE}|Payphone.Api\\Payphone.Api.csproj|c:\\exam\\payphone-backend\\payphone.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{AEBC0771-9B5F-4934-9043-39155BBB82EE}|Payphone.Api\\Payphone.Api.csproj|c:\\sources\\payphone\\payphone-backend\\payphone.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{AEBC0771-9B5F-4934-9043-39155BBB82EE}|Payphone.Api\\Payphone.Api.csproj|solutionrelative:payphone.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E80425D-11C6-4E8D-9DF3-2161015B5EAE}|Payphone.Domain\\Payphone.Domain.csproj|c:\\exam\\payphone-backend\\payphone.domain\\entities\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4E80425D-11C6-4E8D-9DF3-2161015B5EAE}|Payphone.Domain\\Payphone.Domain.csproj|c:\\sources\\payphone\\payphone-backend\\payphone.domain\\entities\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4E80425D-11C6-4E8D-9DF3-2161015B5EAE}|Payphone.Domain\\Payphone.Domain.csproj|solutionrelative:payphone.domain\\entities\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E80425D-11C6-4E8D-9DF3-2161015B5EAE}|Payphone.Domain\\Payphone.Domain.csproj|c:\\exam\\payphone-backend\\payphone.domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4E80425D-11C6-4E8D-9DF3-2161015B5EAE}|Payphone.Domain\\Payphone.Domain.csproj|c:\\sources\\payphone\\payphone-backend\\payphone.domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4E80425D-11C6-4E8D-9DF3-2161015B5EAE}|Payphone.Domain\\Payphone.Domain.csproj|solutionrelative:payphone.domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AEBC0771-9B5F-4934-9043-39155BBB82EE}|Payphone.Api\\Payphone.Api.csproj|c:\\exam\\payphone-backend\\payphone.api\\middlewares\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AEBC0771-9B5F-4934-9043-39155BBB82EE}|Payphone.Api\\Payphone.Api.csproj|c:\\sources\\payphone\\payphone-backend\\payphone.api\\middlewares\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AEBC0771-9B5F-4934-9043-39155BBB82EE}|Payphone.Api\\Payphone.Api.csproj|solutionrelative:payphone.api\\middlewares\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8169B85A-0F18-4522-B6D7-33704680C6F3}|Payphone.UnitTest\\Payphone.UnitTest.csproj|c:\\exam\\payphone-backend\\payphone.unittest\\ordertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8169B85A-0F18-4522-B6D7-33704680C6F3}|Payphone.UnitTest\\Payphone.UnitTest.csproj|c:\\sources\\payphone\\payphone-backend\\payphone.unittest\\ordertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8169B85A-0F18-4522-B6D7-33704680C6F3}|Payphone.UnitTest\\Payphone.UnitTest.csproj|solutionrelative:payphone.unittest\\ordertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\EXAM\\Payphone-Backend\\Payphone.Infrastructure\\Migrations\\20250323020723_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Payphone.Infrastructure\\Migrations\\20250323020723_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C0D29B96-ADA0-4A97-B649-0FD1DBCA265B}|Payphone.Infrastructure\\Payphone.Infrastructure.csproj|c:\\exam\\payphone-backend\\payphone.infrastructure\\repositories\\orderstatushistoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C0D29B96-ADA0-4A97-B649-0FD1DBCA265B}|Payphone.Infrastructure\\Payphone.Infrastructure.csproj|c:\\sources\\payphone\\payphone-backend\\payphone.infrastructure\\repositories\\orderstatushistoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C0D29B96-ADA0-4A97-B649-0FD1DBCA265B}|Payphone.Infrastructure\\Payphone.Infrastructure.csproj|solutionrelative:payphone.infrastructure\\repositories\\orderstatushistoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C0D29B96-ADA0-4A97-B649-0FD1DBCA265B}|Payphone.Infrastructure\\Payphone.Infrastructure.csproj|c:\\exam\\payphone-backend\\payphone.infrastructure\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C0D29B96-ADA0-4A97-B649-0FD1DBCA265B}|Payphone.Infrastructure\\Payphone.Infrastructure.csproj|c:\\sources\\payphone\\payphone-backend\\payphone.infrastructure\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C0D29B96-ADA0-4A97-B649-0FD1DBCA265B}|Payphone.Infrastructure\\Payphone.Infrastructure.csproj|solutionrelative:payphone.infrastructure\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AEBC0771-9B5F-4934-9043-39155BBB82EE}|Payphone.Api\\Payphone.Api.csproj|c:\\exam\\payphone-backend\\payphone.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{AEBC0771-9B5F-4934-9043-39155BBB82EE}|Payphone.Api\\Payphone.Api.csproj|c:\\sources\\payphone\\payphone-backend\\payphone.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{AEBC0771-9B5F-4934-9043-39155BBB82EE}|Payphone.Api\\Payphone.Api.csproj|solutionrelative:payphone.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C0D29B96-ADA0-4A97-B649-0FD1DBCA265B}|Payphone.Infrastructure\\Payphone.Infrastructure.csproj|c:\\exam\\payphone-backend\\payphone.infrastructure\\persistence\\payphonedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C0D29B96-ADA0-4A97-B649-0FD1DBCA265B}|Payphone.Infrastructure\\Payphone.Infrastructure.csproj|c:\\sources\\payphone\\payphone-backend\\payphone.infrastructure\\persistence\\payphonedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C0D29B96-ADA0-4A97-B649-0FD1DBCA265B}|Payphone.Infrastructure\\Payphone.Infrastructure.csproj|solutionrelative:payphone.infrastructure\\persistence\\payphonedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8C66CDD4-2ED5-4618-A406-C8E1F7D15DD4}|Payphone.Application\\Payphone.Application.csproj|c:\\exam\\payphone-backend\\payphone.application\\interfaces\\iorderstatushistoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8C66CDD4-2ED5-4618-A406-C8E1F7D15DD4}|Payphone.Application\\Payphone.Application.csproj|c:\\sources\\payphone\\payphone-backend\\payphone.application\\interfaces\\iorderstatushistoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8C66CDD4-2ED5-4618-A406-C8E1F7D15DD4}|Payphone.Application\\Payphone.Application.csproj|solutionrelative:payphone.application\\interfaces\\iorderstatushistoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8C66CDD4-2ED5-4618-A406-C8E1F7D15DD4}|Payphone.Application\\Payphone.Application.csproj|c:\\exam\\payphone-backend\\payphone.application\\interfaces\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8C66CDD4-2ED5-4618-A406-C8E1F7D15DD4}|Payphone.Application\\Payphone.Application.csproj|c:\\sources\\payphone\\payphone-backend\\payphone.application\\interfaces\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8C66CDD4-2ED5-4618-A406-C8E1F7D15DD4}|Payphone.Application\\Payphone.Application.csproj|solutionrelative:payphone.application\\interfaces\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E80425D-11C6-4E8D-9DF3-2161015B5EAE}|Payphone.Domain\\Payphone.Domain.csproj|c:\\exam\\payphone-backend\\payphone.domain\\entities\\orderstatushistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4E80425D-11C6-4E8D-9DF3-2161015B5EAE}|Payphone.Domain\\Payphone.Domain.csproj|c:\\sources\\payphone\\payphone-backend\\payphone.domain\\entities\\orderstatushistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4E80425D-11C6-4E8D-9DF3-2161015B5EAE}|Payphone.Domain\\Payphone.Domain.csproj|solutionrelative:payphone.domain\\entities\\orderstatushistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E80425D-11C6-4E8D-9DF3-2161015B5EAE}|Payphone.Domain\\Payphone.Domain.csproj|c:\\exam\\payphone-backend\\payphone.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4E80425D-11C6-4E8D-9DF3-2161015B5EAE}|Payphone.Domain\\Payphone.Domain.csproj|c:\\sources\\payphone\\payphone-backend\\payphone.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4E80425D-11C6-4E8D-9DF3-2161015B5EAE}|Payphone.Domain\\Payphone.Domain.csproj|solutionrelative:payphone.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8C66CDD4-2ED5-4618-A406-C8E1F7D15DD4}|Payphone.Application\\Payphone.Application.csproj|c:\\exam\\payphone-backend\\payphone.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8C66CDD4-2ED5-4618-A406-C8E1F7D15DD4}|Payphone.Application\\Payphone.Application.csproj|c:\\sources\\payphone\\payphone-backend\\payphone.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8C66CDD4-2ED5-4618-A406-C8E1F7D15DD4}|Payphone.Application\\Payphone.Application.csproj|solutionrelative:payphone.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0D29B96-ADA0-4A97-B649-0FD1DBCA265B}|Payphone.Infrastructure\\Payphone.Infrastructure.csproj|c:\\sources\\payphone\\payphone-backend\\payphone.infrastructure\\migrations\\20250323020723_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0D29B96-ADA0-4A97-B649-0FD1DBCA265B}|Payphone.Infrastructure\\Payphone.Infrastructure.csproj|solutionrelative:payphone.infrastructure\\migrations\\20250323020723_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -90,7 +94,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -102,11 +106,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Payphone.Api",
-              "DocumentMoniker": "C:\\EXAM\\Payphone-Backend\\Payphone.Api\\Payphone.Api.csproj",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Sources\\Payphone\\Payphone-Backend\\Payphone.AspireHost\\Payphone.AspireHost.AppHost\\Program.cs",
+              "RelativeDocumentMoniker": "Payphone.AspireHost\\Payphone.AspireHost.AppHost\\Program.cs",
+              "ToolTip": "C:\\Sources\\Payphone\\Payphone-Backend\\Payphone.AspireHost\\Payphone.AspireHost.AppHost\\Program.cs",
+              "RelativeToolTip": "Payphone.AspireHost\\Payphone.AspireHost.AppHost\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T13:50:30.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Payphone.Api.csproj",
+              "DocumentMoniker": "C:\\Sources\\Payphone\\Payphone-Backend\\Payphone.Api\\Payphone.Api.csproj",
               "RelativeDocumentMoniker": "Payphone.Api\\Payphone.Api.csproj",
-              "ToolTip": "C:\\EXAM\\Payphone-Backend\\Payphone.Api\\Payphone.Api.csproj",
+              "ToolTip": "C:\\Sources\\Payphone\\Payphone-Backend\\Payphone.Api\\Payphone.Api.csproj",
               "RelativeToolTip": "Payphone.Api\\Payphone.Api.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -115,11 +132,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\EXAM\\Payphone-Backend\\Payphone.Api\\Controllers\\AuthController.cs",
+              "DocumentMoniker": "C:\\Sources\\Payphone\\Payphone-Backend\\Payphone.Api\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "Payphone.Api\\Controllers\\AuthController.cs",
-              "ToolTip": "C:\\EXAM\\Payphone-Backend\\Payphone.Api\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Sources\\Payphone\\Payphone-Backend\\Payphone.Api\\Controllers\\AuthController.cs",
               "RelativeToolTip": "Payphone.Api\\Controllers\\AuthController.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAYwCkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -128,11 +145,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "OrderTests.cs",
-              "DocumentMoniker": "C:\\EXAM\\Payphone-Backend\\Payphone.UnitTest\\OrderTests.cs",
+              "DocumentMoniker": "C:\\Sources\\Payphone\\Payphone-Backend\\Payphone.UnitTest\\OrderTests.cs",
               "RelativeDocumentMoniker": "Payphone.UnitTest\\OrderTests.cs",
-              "ToolTip": "C:\\EXAM\\Payphone-Backend\\Payphone.UnitTest\\OrderTests.cs",
+              "ToolTip": "C:\\Sources\\Payphone\\Payphone-Backend\\Payphone.UnitTest\\OrderTests.cs",
               "RelativeToolTip": "Payphone.UnitTest\\OrderTests.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -141,11 +158,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "ExceptionHandlingMiddleware.cs",
-              "DocumentMoniker": "C:\\EXAM\\Payphone-Backend\\Payphone.Api\\Middlewares\\ExceptionHandlingMiddleware.cs",
+              "DocumentMoniker": "C:\\Sources\\Payphone\\Payphone-Backend\\Payphone.Api\\Middlewares\\ExceptionHandlingMiddleware.cs",
               "RelativeDocumentMoniker": "Payphone.Api\\Middlewares\\ExceptionHandlingMiddleware.cs",
-              "ToolTip": "C:\\EXAM\\Payphone-Backend\\Payphone.Api\\Middlewares\\ExceptionHandlingMiddleware.cs",
+              "ToolTip": "C:\\Sources\\Payphone\\Payphone-Backend\\Payphone.Api\\Middlewares\\ExceptionHandlingMiddleware.cs",
               "RelativeToolTip": "Payphone.Api\\Middlewares\\ExceptionHandlingMiddleware.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAQwCUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -154,11 +171,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 20,
               "Title": "20250323020723_InitialCreate.cs",
-              "DocumentMoniker": "C:\\EXAM\\Payphone-Backend\\Payphone.Infrastructure\\Migrations\\20250323020723_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Sources\\Payphone\\Payphone-Backend\\Payphone.Infrastructure\\Migrations\\20250323020723_InitialCreate.cs",
               "RelativeDocumentMoniker": "Payphone.Infrastructure\\Migrations\\20250323020723_InitialCreate.cs",
-              "ToolTip": "C:\\EXAM\\Payphone-Backend\\Payphone.Infrastructure\\Migrations\\20250323020723_InitialCreate.cs",
+              "ToolTip": "C:\\Sources\\Payphone\\Payphone-Backend\\Payphone.Infrastructure\\Migrations\\20250323020723_InitialCreate.cs",
               "RelativeToolTip": "Payphone.Infrastructure\\Migrations\\20250323020723_InitialCreate.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -167,24 +184,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "OrderStatusHistoryController.cs",
-              "DocumentMoniker": "C:\\EXAM\\Payphone-Backend\\Payphone.Api\\Controllers\\OrderStatusHistoryController.cs",
+              "DocumentMoniker": "C:\\Sources\\Payphone\\Payphone-Backend\\Payphone.Api\\Controllers\\OrderStatusHistoryController.cs",
               "RelativeDocumentMoniker": "Payphone.Api\\Controllers\\OrderStatusHistoryController.cs",
-              "ToolTip": "C:\\EXAM\\Payphone-Backend\\Payphone.Api\\Controllers\\OrderStatusHistoryController.cs",
+              "ToolTip": "C:\\Sources\\Payphone\\Payphone-Backend\\Payphone.Api\\Controllers\\OrderStatusHistoryController.cs",
               "RelativeToolTip": "Payphone.Api\\Controllers\\OrderStatusHistoryController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-23T01:57:15.571Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "OrdersController.cs",
-              "DocumentMoniker": "C:\\EXAM\\Payphone-Backend\\Payphone.Api\\Controllers\\OrdersController.cs",
+              "DocumentMoniker": "C:\\Sources\\Payphone\\Payphone-Backend\\Payphone.Api\\Controllers\\OrdersController.cs",
               "RelativeDocumentMoniker": "Payphone.Api\\Controllers\\OrdersController.cs",
-              "ToolTip": "C:\\EXAM\\Payphone-Backend\\Payphone.Api\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Sources\\Payphone\\Payphone-Backend\\Payphone.Api\\Controllers\\OrdersController.cs",
               "RelativeToolTip": "Payphone.Api\\Controllers\\OrdersController.cs",
               "ViewState": "AgIAACoAAAAAAAAAAAAkwI8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -195,9 +212,9 @@
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "OrderStatusHistoryRepository.cs",
-              "DocumentMoniker": "C:\\EXAM\\Payphone-Backend\\Payphone.Infrastructure\\Repositories\\OrderStatusHistoryRepository.cs",
+              "DocumentMoniker": "C:\\Sources\\Payphone\\Payphone-Backend\\Payphone.Infrastructure\\Repositories\\OrderStatusHistoryRepository.cs",
               "RelativeDocumentMoniker": "Payphone.Infrastructure\\Repositories\\OrderStatusHistoryRepository.cs",
-              "ToolTip": "C:\\EXAM\\Payphone-Backend\\Payphone.Infrastructure\\Repositories\\OrderStatusHistoryRepository.cs",
+              "ToolTip": "C:\\Sources\\Payphone\\Payphone-Backend\\Payphone.Infrastructure\\Repositories\\OrderStatusHistoryRepository.cs",
               "RelativeToolTip": "Payphone.Infrastructure\\Repositories\\OrderStatusHistoryRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -208,24 +225,24 @@
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "OrderRepository.cs",
-              "DocumentMoniker": "C:\\EXAM\\Payphone-Backend\\Payphone.Infrastructure\\Repositories\\OrderRepository.cs",
+              "DocumentMoniker": "C:\\Sources\\Payphone\\Payphone-Backend\\Payphone.Infrastructure\\Repositories\\OrderRepository.cs",
               "RelativeDocumentMoniker": "Payphone.Infrastructure\\Repositories\\OrderRepository.cs",
-              "ToolTip": "C:\\EXAM\\Payphone-Backend\\Payphone.Infrastructure\\Repositories\\OrderRepository.cs",
+              "ToolTip": "C:\\Sources\\Payphone\\Payphone-Backend\\Payphone.Infrastructure\\Repositories\\OrderRepository.cs",
               "RelativeToolTip": "Payphone.Infrastructure\\Repositories\\OrderRepository.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwAsAAAA5AAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwAsAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-23T01:53:00.34Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\EXAM\\Payphone-Backend\\Payphone.Api\\Program.cs",
+              "DocumentMoniker": "C:\\Sources\\Payphone\\Payphone-Backend\\Payphone.Api\\Program.cs",
               "RelativeDocumentMoniker": "Payphone.Api\\Program.cs",
-              "ToolTip": "C:\\EXAM\\Payphone-Backend\\Payphone.Api\\Program.cs",
+              "ToolTip": "C:\\Sources\\Payphone\\Payphone-Backend\\Payphone.Api\\Program.cs",
               "RelativeToolTip": "Payphone.Api\\Program.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-23T01:47:56.452Z",
               "EditorCaption": ""
@@ -234,9 +251,9 @@
               "$type": "Document",
               "DocumentIndex": 13,
               "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\EXAM\\Payphone-Backend\\Payphone.Api\\appsettings.Development.json",
+              "DocumentMoniker": "C:\\Sources\\Payphone\\Payphone-Backend\\Payphone.Api\\appsettings.Development.json",
               "RelativeDocumentMoniker": "Payphone.Api\\appsettings.Development.json",
-              "ToolTip": "C:\\EXAM\\Payphone-Backend\\Payphone.Api\\appsettings.Development.json",
+              "ToolTip": "C:\\Sources\\Payphone\\Payphone-Backend\\Payphone.Api\\appsettings.Development.json",
               "RelativeToolTip": "Payphone.Api\\appsettings.Development.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -245,11 +262,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\EXAM\\Payphone-Backend\\Payphone.Api\\appsettings.json",
+              "DocumentMoniker": "C:\\Sources\\Payphone\\Payphone-Backend\\Payphone.Api\\appsettings.json",
               "RelativeDocumentMoniker": "Payphone.Api\\appsettings.json",
-              "ToolTip": "C:\\EXAM\\Payphone-Backend\\Payphone.Api\\appsettings.json",
+              "ToolTip": "C:\\Sources\\Payphone\\Payphone-Backend\\Payphone.Api\\appsettings.json",
               "RelativeToolTip": "Payphone.Api\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -260,9 +277,9 @@
               "$type": "Document",
               "DocumentIndex": 14,
               "Title": "PayphoneDbContext.cs",
-              "DocumentMoniker": "C:\\EXAM\\Payphone-Backend\\Payphone.Infrastructure\\Persistence\\PayphoneDbContext.cs",
+              "DocumentMoniker": "C:\\Sources\\Payphone\\Payphone-Backend\\Payphone.Infrastructure\\Persistence\\PayphoneDbContext.cs",
               "RelativeDocumentMoniker": "Payphone.Infrastructure\\Persistence\\PayphoneDbContext.cs",
-              "ToolTip": "C:\\EXAM\\Payphone-Backend\\Payphone.Infrastructure\\Persistence\\PayphoneDbContext.cs",
+              "ToolTip": "C:\\Sources\\Payphone\\Payphone-Backend\\Payphone.Infrastructure\\Persistence\\PayphoneDbContext.cs",
               "RelativeToolTip": "Payphone.Infrastructure\\Persistence\\PayphoneDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -273,9 +290,9 @@
               "$type": "Document",
               "DocumentIndex": 15,
               "Title": "IOrderStatusHistoryRepository.cs",
-              "DocumentMoniker": "C:\\EXAM\\Payphone-Backend\\Payphone.Application\\Interfaces\\IOrderStatusHistoryRepository.cs",
+              "DocumentMoniker": "C:\\Sources\\Payphone\\Payphone-Backend\\Payphone.Application\\Interfaces\\IOrderStatusHistoryRepository.cs",
               "RelativeDocumentMoniker": "Payphone.Application\\Interfaces\\IOrderStatusHistoryRepository.cs",
-              "ToolTip": "C:\\EXAM\\Payphone-Backend\\Payphone.Application\\Interfaces\\IOrderStatusHistoryRepository.cs",
+              "ToolTip": "C:\\Sources\\Payphone\\Payphone-Backend\\Payphone.Application\\Interfaces\\IOrderStatusHistoryRepository.cs",
               "RelativeToolTip": "Payphone.Application\\Interfaces\\IOrderStatusHistoryRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -286,9 +303,9 @@
               "$type": "Document",
               "DocumentIndex": 16,
               "Title": "IOrderRepository.cs",
-              "DocumentMoniker": "C:\\EXAM\\Payphone-Backend\\Payphone.Application\\Interfaces\\IOrderRepository.cs",
+              "DocumentMoniker": "C:\\Sources\\Payphone\\Payphone-Backend\\Payphone.Application\\Interfaces\\IOrderRepository.cs",
               "RelativeDocumentMoniker": "Payphone.Application\\Interfaces\\IOrderRepository.cs",
-              "ToolTip": "C:\\EXAM\\Payphone-Backend\\Payphone.Application\\Interfaces\\IOrderRepository.cs",
+              "ToolTip": "C:\\Sources\\Payphone\\Payphone-Backend\\Payphone.Application\\Interfaces\\IOrderRepository.cs",
               "RelativeToolTip": "Payphone.Application\\Interfaces\\IOrderRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -297,11 +314,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "OrderStatus.cs",
-              "DocumentMoniker": "C:\\EXAM\\Payphone-Backend\\Payphone.Domain\\Entities\\OrderStatus.cs",
+              "DocumentMoniker": "C:\\Sources\\Payphone\\Payphone-Backend\\Payphone.Domain\\Entities\\OrderStatus.cs",
               "RelativeDocumentMoniker": "Payphone.Domain\\Entities\\OrderStatus.cs",
-              "ToolTip": "C:\\EXAM\\Payphone-Backend\\Payphone.Domain\\Entities\\OrderStatus.cs",
+              "ToolTip": "C:\\Sources\\Payphone\\Payphone-Backend\\Payphone.Domain\\Entities\\OrderStatus.cs",
               "RelativeToolTip": "Payphone.Domain\\Entities\\OrderStatus.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -312,9 +329,9 @@
               "$type": "Document",
               "DocumentIndex": 17,
               "Title": "OrderStatusHistory.cs",
-              "DocumentMoniker": "C:\\EXAM\\Payphone-Backend\\Payphone.Domain\\Entities\\OrderStatusHistory.cs",
+              "DocumentMoniker": "C:\\Sources\\Payphone\\Payphone-Backend\\Payphone.Domain\\Entities\\OrderStatusHistory.cs",
               "RelativeDocumentMoniker": "Payphone.Domain\\Entities\\OrderStatusHistory.cs",
-              "ToolTip": "C:\\EXAM\\Payphone-Backend\\Payphone.Domain\\Entities\\OrderStatusHistory.cs",
+              "ToolTip": "C:\\Sources\\Payphone\\Payphone-Backend\\Payphone.Domain\\Entities\\OrderStatusHistory.cs",
               "RelativeToolTip": "Payphone.Domain\\Entities\\OrderStatusHistory.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -323,11 +340,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Order.cs",
-              "DocumentMoniker": "C:\\EXAM\\Payphone-Backend\\Payphone.Domain\\Entities\\Order.cs",
+              "DocumentMoniker": "C:\\Sources\\Payphone\\Payphone-Backend\\Payphone.Domain\\Entities\\Order.cs",
               "RelativeDocumentMoniker": "Payphone.Domain\\Entities\\Order.cs",
-              "ToolTip": "C:\\EXAM\\Payphone-Backend\\Payphone.Domain\\Entities\\Order.cs",
+              "ToolTip": "C:\\Sources\\Payphone\\Payphone-Backend\\Payphone.Domain\\Entities\\Order.cs",
               "RelativeToolTip": "Payphone.Domain\\Entities\\Order.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -338,9 +355,9 @@
               "$type": "Document",
               "DocumentIndex": 18,
               "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\EXAM\\Payphone-Backend\\Payphone.Domain\\Class1.cs",
+              "DocumentMoniker": "C:\\Sources\\Payphone\\Payphone-Backend\\Payphone.Domain\\Class1.cs",
               "RelativeDocumentMoniker": "Payphone.Domain\\Class1.cs",
-              "ToolTip": "C:\\EXAM\\Payphone-Backend\\Payphone.Domain\\Class1.cs",
+              "ToolTip": "C:\\Sources\\Payphone\\Payphone-Backend\\Payphone.Domain\\Class1.cs",
               "RelativeToolTip": "Payphone.Domain\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -351,9 +368,9 @@
               "$type": "Document",
               "DocumentIndex": 19,
               "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\EXAM\\Payphone-Backend\\Payphone.Application\\Class1.cs",
+              "DocumentMoniker": "C:\\Sources\\Payphone\\Payphone-Backend\\Payphone.Application\\Class1.cs",
               "RelativeDocumentMoniker": "Payphone.Application\\Class1.cs",
-              "ToolTip": "C:\\EXAM\\Payphone-Backend\\Payphone.Application\\Class1.cs",
+              "ToolTip": "C:\\Sources\\Payphone\\Payphone-Backend\\Payphone.Application\\Class1.cs",
               "RelativeToolTip": "Payphone.Application\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
