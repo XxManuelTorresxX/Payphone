@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "Cl0EdqnLq3EMsPfeRDedoqx845P4beVB6xE3nD65Sgg=",
+  "Source": "Payphone.Api",
+  "BasePath": "_content/Payphone.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

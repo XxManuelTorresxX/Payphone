@@ -1,0 +1,14 @@
+C:\EXAM\Payphone-Backend\DataProtector\obj\Debug\net8.0\DataProtector.GeneratedMSBuildEditorConfig.editorconfig
+C:\EXAM\Payphone-Backend\DataProtector\obj\Debug\net8.0\DataProtector.AssemblyInfoInputs.cache
+C:\EXAM\Payphone-Backend\DataProtector\obj\Debug\net8.0\DataProtector.AssemblyInfo.cs
+C:\EXAM\Payphone-Backend\DataProtector\obj\Debug\net8.0\DataProtector.csproj.CoreCompileInputs.cache
+C:\EXAM\Payphone-Backend\DataProtector\bin\Debug\net8.0\DataProtector.exe
+C:\EXAM\Payphone-Backend\DataProtector\bin\Debug\net8.0\DataProtector.deps.json
+C:\EXAM\Payphone-Backend\DataProtector\bin\Debug\net8.0\DataProtector.runtimeconfig.json
+C:\EXAM\Payphone-Backend\DataProtector\bin\Debug\net8.0\DataProtector.dll
+C:\EXAM\Payphone-Backend\DataProtector\bin\Debug\net8.0\DataProtector.pdb
+C:\EXAM\Payphone-Backend\DataProtector\obj\Debug\net8.0\DataProtector.dll
+C:\EXAM\Payphone-Backend\DataProtector\obj\Debug\net8.0\refint\DataProtector.dll
+C:\EXAM\Payphone-Backend\DataProtector\obj\Debug\net8.0\DataProtector.pdb
+C:\EXAM\Payphone-Backend\DataProtector\obj\Debug\net8.0\DataProtector.genruntimeconfig.cache
+C:\EXAM\Payphone-Backend\DataProtector\obj\Debug\net8.0\ref\DataProtector.dll

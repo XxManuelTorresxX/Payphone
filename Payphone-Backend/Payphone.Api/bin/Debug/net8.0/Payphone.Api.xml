@@ -1,0 +1,158 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Payphone.Api</name>
+    </assembly>
+    <members>
+        <member name="T:Payphone.Api.Controllers.OrdersController">
+            <summary>
+            Controlador para la gestión de pedidos.
+            </summary>
+        </member>
+        <member name="M:Payphone.Api.Controllers.OrdersController.#ctor(Payphone.Application.Interfaces.IOrderRepository)">
+            <summary>
+            Constructor del controlador de pedidos.
+            </summary>
+            <param name="orderRepository">Implementación de IOrderRepository para acceder a los pedidos.</param>
+        </member>
+        <member name="M:Payphone.Api.Controllers.OrdersController.GetAll">
+            <summary>
+            Obtiene la lista de todos los pedidos.
+            </summary>
+            <returns>Una lista de objetos <see cref="T:Payphone.Domain.Entities.Order"/>.</returns>
+        </member>
+        <member name="M:Payphone.Api.Controllers.OrdersController.GetById(System.Int32)">
+            <summary>
+            Obtiene un pedido por su identificador.
+            </summary>
+            <param name="id">El identificador único del pedido.</param>
+            <returns>El objeto <see cref="T:Payphone.Domain.Entities.Order"/> con el ID especificado, o un código 404 si no se encuentra.</returns>
+        </member>
+        <member name="M:Payphone.Api.Controllers.OrdersController.Create(Payphone.Api.Controllers.OrderCreateDto)">
+            <summary>
+            Crea un nuevo pedido.
+            </summary>
+            <param name="dto">Información necesaria para crear el pedido.</param>
+            <returns>El pedido creado con código 201 (Created). Retorna 400 si el monto total es inválido.</returns>
+        </member>
+        <member name="M:Payphone.Api.Controllers.OrdersController.Update(System.Int32,Payphone.Api.Controllers.OrderUpdateDto)">
+            <summary>
+            Actualiza un pedido existente, permitiendo modificar el monto total y/o el estado.
+            </summary>
+            <param name="id">El identificador del pedido a actualizar.</param>
+            <param name="dto">Los datos de actualización (monto y estado).</param>
+            <returns>
+            204 (NoContent) si la actualización se realiza con éxito.
+            404 si no se encuentra el pedido.
+            400 si la transición de estado es inválida o el monto no es válido.
+            </returns>
+        </member>
+        <member name="M:Payphone.Api.Controllers.OrdersController.Delete(System.Int32)">
+            <summary>
+            Elimina un pedido existente.
+            </summary>
+            <param name="id">El identificador del pedido a eliminar.</param>
+            <returns>
+            204 (NoContent) si se elimina con éxito.
+            404 si no se encuentra el pedido.
+            </returns>
+        </member>
+        <member name="T:Payphone.Api.Controllers.OrderCreateDto">
+            <summary>
+            DTO para la creación de un nuevo pedido.
+            </summary>
+            <param name="CustomerId">El identificador del cliente que realiza el pedido.</param>
+            <param name="TotalAmount">El monto total del pedido (debe ser mayor que cero).</param>
+        </member>
+        <member name="M:Payphone.Api.Controllers.OrderCreateDto.#ctor(System.String,System.Decimal)">
+            <summary>
+            DTO para la creación de un nuevo pedido.
+            </summary>
+            <param name="CustomerId">El identificador del cliente que realiza el pedido.</param>
+            <param name="TotalAmount">El monto total del pedido (debe ser mayor que cero).</param>
+        </member>
+        <member name="P:Payphone.Api.Controllers.OrderCreateDto.CustomerId">
+            <summary>El identificador del cliente que realiza el pedido.</summary>
+        </member>
+        <member name="P:Payphone.Api.Controllers.OrderCreateDto.TotalAmount">
+            <summary>El monto total del pedido (debe ser mayor que cero).</summary>
+        </member>
+        <member name="T:Payphone.Api.Controllers.OrderUpdateDto">
+            <summary>
+            DTO para la actualización de un pedido existente.
+            </summary>
+            <param name="TotalAmount">Nuevo monto total (opcional, debe ser mayor que cero).</param>
+            <param name="NewStatus">Nuevo estado del pedido (opcional).</param>
+        </member>
+        <member name="M:Payphone.Api.Controllers.OrderUpdateDto.#ctor(System.Nullable{System.Decimal},System.Nullable{Payphone.Domain.Entities.OrderStatus})">
+            <summary>
+            DTO para la actualización de un pedido existente.
+            </summary>
+            <param name="TotalAmount">Nuevo monto total (opcional, debe ser mayor que cero).</param>
+            <param name="NewStatus">Nuevo estado del pedido (opcional).</param>
+        </member>
+        <member name="P:Payphone.Api.Controllers.OrderUpdateDto.TotalAmount">
+            <summary>Nuevo monto total (opcional, debe ser mayor que cero).</summary>
+        </member>
+        <member name="P:Payphone.Api.Controllers.OrderUpdateDto.NewStatus">
+            <summary>Nuevo estado del pedido (opcional).</summary>
+        </member>
+        <member name="T:Payphone.Api.Controllers.OrderStatusHistoryController">
+            <summary>
+            Controlador para gestionar el historial de estados de los pedidos.
+            </summary>
+        </member>
+        <member name="M:Payphone.Api.Controllers.OrderStatusHistoryController.#ctor(Payphone.Application.Interfaces.IOrderStatusHistoryRepository,Payphone.Application.Interfaces.IOrderRepository)">
+            <summary>
+            Constructor del controlador de historial de estados de pedidos.
+            </summary>
+            <param name="historyRepository">Repositorio para manejar el historial de estados.</param>
+            <param name="orderRepository">Repositorio para manejar los pedidos.</param>
+        </member>
+        <member name="M:Payphone.Api.Controllers.OrderStatusHistoryController.GetByOrderId(System.Int32)">
+            <summary>
+            Obtiene el historial de cambios de estado para un pedido específico.
+            </summary>
+            <param name="orderId">El identificador único del pedido.</param>
+            <returns>
+            Una lista de <see cref="T:Payphone.Domain.Entities.OrderStatusHistory"/> correspondiente al pedido especificado.
+            Retorna 404 si el pedido no existe.
+            </returns>
+        </member>
+        <member name="M:Payphone.Api.Controllers.OrderStatusHistoryController.Create(Payphone.Api.Controllers.OrderStatusHistoryCreateDto)">
+            <summary>
+            Crea un nuevo registro en el historial de estados de un pedido.
+            </summary>
+            <param name="dto">Los datos necesarios para crear el registro de historial.</param>
+            <returns>
+            201 (Created) con el historial creado y la ruta para obtenerlo.
+            404 si no se encuentra el pedido.
+            </returns>
+        </member>
+        <member name="T:Payphone.Api.Controllers.OrderStatusHistoryCreateDto">
+            <summary>
+            DTO para crear un nuevo registro de historial de estado de un pedido.
+            </summary>
+            <param name="OrderId">El identificador único del pedido al que pertenece este historial.</param>
+            <param name="PreviousStatus">El estado anterior del pedido.</param>
+            <param name="NewStatus">El nuevo estado asignado al pedido.</param>
+        </member>
+        <member name="M:Payphone.Api.Controllers.OrderStatusHistoryCreateDto.#ctor(System.Int32,Payphone.Domain.Entities.OrderStatus,Payphone.Domain.Entities.OrderStatus)">
+            <summary>
+            DTO para crear un nuevo registro de historial de estado de un pedido.
+            </summary>
+            <param name="OrderId">El identificador único del pedido al que pertenece este historial.</param>
+            <param name="PreviousStatus">El estado anterior del pedido.</param>
+            <param name="NewStatus">El nuevo estado asignado al pedido.</param>
+        </member>
+        <member name="P:Payphone.Api.Controllers.OrderStatusHistoryCreateDto.OrderId">
+            <summary>El identificador único del pedido al que pertenece este historial.</summary>
+        </member>
+        <member name="P:Payphone.Api.Controllers.OrderStatusHistoryCreateDto.PreviousStatus">
+            <summary>El estado anterior del pedido.</summary>
+        </member>
+        <member name="P:Payphone.Api.Controllers.OrderStatusHistoryCreateDto.NewStatus">
+            <summary>El nuevo estado asignado al pedido.</summary>
+        </member>
+    </members>
+</doc>

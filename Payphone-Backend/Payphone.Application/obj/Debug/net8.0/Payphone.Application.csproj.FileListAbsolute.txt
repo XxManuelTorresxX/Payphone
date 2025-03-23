@@ -1,0 +1,15 @@
+C:\EXAM\Payphone-Backend\Payphone.Application\bin\Debug\net8.0\Payphone.Application.deps.json
+C:\EXAM\Payphone-Backend\Payphone.Application\bin\Debug\net8.0\Payphone.Application.dll
+C:\EXAM\Payphone-Backend\Payphone.Application\bin\Debug\net8.0\Payphone.Application.pdb
+C:\EXAM\Payphone-Backend\Payphone.Application\obj\Debug\net8.0\Payphone.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\EXAM\Payphone-Backend\Payphone.Application\obj\Debug\net8.0\Payphone.Application.AssemblyInfoInputs.cache
+C:\EXAM\Payphone-Backend\Payphone.Application\obj\Debug\net8.0\Payphone.Application.AssemblyInfo.cs
+C:\EXAM\Payphone-Backend\Payphone.Application\obj\Debug\net8.0\Payphone.Application.csproj.CoreCompileInputs.cache
+C:\EXAM\Payphone-Backend\Payphone.Application\obj\Debug\net8.0\Payphone.Application.dll
+C:\EXAM\Payphone-Backend\Payphone.Application\obj\Debug\net8.0\refint\Payphone.Application.dll
+C:\EXAM\Payphone-Backend\Payphone.Application\obj\Debug\net8.0\Payphone.Application.pdb
+C:\EXAM\Payphone-Backend\Payphone.Application\obj\Debug\net8.0\ref\Payphone.Application.dll
+C:\EXAM\Payphone-Backend\Payphone.Application\bin\Debug\net8.0\Payphone.Domain.dll
+C:\EXAM\Payphone-Backend\Payphone.Application\bin\Debug\net8.0\Payphone.Domain.pdb
+C:\EXAM\Payphone-Backend\Payphone.Application\obj\Debug\net8.0\Payphone.Application.csproj.AssemblyReference.cache
+C:\EXAM\Payphone-Backend\Payphone.Application\obj\Debug\net8.0\Payphone.2CE82CF6.Up2Date
